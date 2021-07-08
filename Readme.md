@@ -105,7 +105,7 @@ sudo apt-get install libdb4.8-dev libdb4.8++-dev
 
 4. **Start the deamon**:
 ```bash
-   xeniosd 
+   xeniosd
 ```
 
 ### Wallet Setup
